@@ -16,7 +16,7 @@ ____
 ### My social networks :
 ____
 + [Telegram](https://t.me/+79175434703)
-+ [LinredIn](https://www.linkedin.com/in/vladimir-ischenko-9412a167/)
++ [LinkedIn](https://www.linkedin.com/in/vladimir-ischenko-9412a167/)
 
 <!---
 Vladimir-Ishchenko/Vladimir-Ishchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
