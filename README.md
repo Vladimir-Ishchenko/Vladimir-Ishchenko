@@ -1,6 +1,6 @@
 ### Preview  : 
 ____
-- 👋 Hi, I’m Vladimir Ishchenko, I work as Data analyst in Leroy Merlin (Adeo Group) for last 2.5 years.
+- 👋 Hi, I’m Vladimir Ishchenko, I work as Data analyst in Leroy Merlin (Adeo Group) for last 3 years.
 
 ### Main hard skylls :
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
